@@ -20,6 +20,6 @@ It's a food pos merchant where you can add item's in your cart and make payments
 3. Increase Decrease Quantity
 4. And a Payment Button
 
-
+![alt text](https://drive.google.com/file/d/18zg7-aSiNY3pCoF88an7L5QvVA-f05U_/view?usp=sharing)
 ### `npm run build`
 
