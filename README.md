@@ -21,5 +21,11 @@ It's a food pos merchant where you can add item's in your cart and make payments
 4. And a Payment Button
 
 ![alt text](https://github.com/shilpirana922/pos-merchant/blob/master/public/Product_page.PNG)
+
+![alt text](https://github.com/shilpirana922/pos-merchant/blob/master/public/Add%20_item-2.PNG)
+
+![alt text](https://github.com/shilpirana922/pos-merchant/blob/master/public/Add%20_item.PNG)
+
+![alt text](https://github.com/shilpirana922/pos-merchant/blob/master/public/checkout.PNG)
 ### `npm run build`
 
